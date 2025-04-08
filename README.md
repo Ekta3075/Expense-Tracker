@@ -1,6 +1,6 @@
 # Smart Expense Tracker
 
-A simple, stylish web-based expense tracking application built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. Users can add, categorize, and delete expenses, and view summaries by date and category. All data is stored using the browser's **localStorage** to ensure persistence without any backend.
+A simple, stylish web-based expense tracking application built using **HTML**, **CSS**, and **JavaScript**. Users can add, categorize, and delete expenses, and view summaries by date and category. All data is stored using the browser's **localStorage** to ensure persistence without any backend.
 
 ---
 
